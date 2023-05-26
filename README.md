@@ -1,4 +1,5 @@
-### Hi there 👋
+Hi👋. I'm Mar
+I'm a Desktop Application Developer, I'm currently study'm at the Instituto Tecnologico de Veracruz as Computer Systems Engineer.
 
 <!--
 **MarAmorosMtz/MaramorosMtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
